@@ -12,10 +12,16 @@ The system is designed using OOP principles, with key classes that define the co
 2. Order: Represents a customer order, including the items ordered, quantities, and the order total.
 3. Restaurant: The main class that handles the entire restaurant system, including order processing, billing, and menu management.
    
+Main Functionalities:-
+1. Manage Menu: Add or remove items to/from the menu.
+2. Place Order: Select items from the menu and place an order.
+3. Prepare and Serve order: placed orders can be tracked by time.
+4. Generate Bill: Automatically calculate the total amount for an order.
+
 Install Required Libraries:-
 1. Tkinter
 
-Tkinter Widgets Used:
+Tkinter Widgets Used:-
 1. Label (tk.Label): Displays text or images.
 2. Button (tk.Button): Creates a clickable button.
 3. Text (tk.Text): A multi-line text field for more complex input.
@@ -24,10 +30,3 @@ Usage:-
 To start the application, run the main.py file:
 - python main.py
 This will start the Restaurant Management System and open the main menu with various options to manage the restaurant.
-
-Main Functionalities:-
-1. Manage Menu: Add or remove items to/from the menu.
-2. Place Order: Select items from the menu and place an order.
-3. Generate Bill: Automatically calculate the total amount for an order.
-4. View Reports: Display information such as total sales, number of orders, etc.
-5. Manage Staff: Add, update, or remove staff members and assign them roles.
