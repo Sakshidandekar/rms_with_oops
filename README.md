@@ -29,4 +29,5 @@ Tkinter Widgets Used:-
 Usage:-
 To start the application, run the main.py file:
 - python main.py
+
 This will start the Restaurant Management System and open the main menu with various options to manage the restaurant.
