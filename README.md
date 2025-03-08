@@ -12,3 +12,12 @@ The system is designed using OOP principles, with key classes that define the co
 2. Order: Represents a customer order, including the items ordered, quantities, and the order total.
 3. Restaurant: The main class that handles the entire restaurant system, including order processing, billing, and menu management.
    
+Install Required Libraries:-
+1. Tkinter
+
+Tkinter Widgets Used:
+1. Label (tk.Label): Displays text or images.
+2. Button (tk.Button): Creates a clickable button.
+3. Text (tk.Text): A multi-line text field for more complex input.
+
+   
