@@ -20,4 +20,14 @@ Tkinter Widgets Used:
 2. Button (tk.Button): Creates a clickable button.
 3. Text (tk.Text): A multi-line text field for more complex input.
 
-   
+Usage:-
+To start the application, run the main.py file:
+- python main.py
+This will start the Restaurant Management System and open the main menu with various options to manage the restaurant.
+
+Main Functionalities:-
+1. Manage Menu: Add or remove items to/from the menu.
+2. Place Order: Select items from the menu and place an order.
+3. Generate Bill: Automatically calculate the total amount for an order.
+4. View Reports: Display information such as total sales, number of orders, etc.
+5. Manage Staff: Add, update, or remove staff members and assign them roles.
